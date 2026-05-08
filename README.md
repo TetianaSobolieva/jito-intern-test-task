@@ -5,7 +5,7 @@ This task is designed to evaluate how well you solve problems without having eve
 
 ## Assignment
 Your task is to implement a function called `html2json`, which converts HTML data into a JSON representation.
-AI tools usage is <b>REQUIRED</b>. Is is required that you provide your entire conversation history by attaching a link to the dialogue. Therefore, keep all your research within a single conversation and submit the link along with your task.
+AI tools usage is <b>REQUIRED</b>. Is is required that you provide your entire coonversation history by attaching a link to the dialogue. Therefre, keep all your research within a single conversation and submit the link along with your task.
 
 ## Expected repository structure
 - `html2json.js` - This file should contain your implementation of the html2json function.
